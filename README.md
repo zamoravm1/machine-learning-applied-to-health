@@ -72,3 +72,6 @@ either healthy or affected by chronic kidney disease and measure the performance
 trees are all built using Python Scikit Learn class DecisionTreeClassifier [2] using entropy
 criterion; missing values are replaced using regression trees available in the same Python
 library.
+
+#To see reports and descriptions:
+https://es.scribd.com/user/631405699/Valentina-Mendoza-Zamora
