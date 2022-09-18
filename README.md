@@ -1,5 +1,6 @@
 # Machine Learning Applied to Health
-My laboratories from first year subject Msc. ICT for Smart Societies, subject: ICT for health. Politecnico di Torino, Italy.
+My laboratories from first year subject Msc. ICT for Smart Societies, subject: ICT for health 2021/22. Politecnico di Torino, Italy.
+@zamora
 
 # Report 1: Regression on Parkinson’s disease data
 Patients affected by Parkinson’s disease cannot perfectly control their muscles. In particular
